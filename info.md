@@ -48,5 +48,19 @@ git checkout master
 ![mem](mem.jpg)
 
 
+## Ветки в git
+
+Чтобы посмотреть все ветки:
+
+git branch
+
+
+Для создания новой ветки с именем branch_name:
+
+git branch branch_name
+
+Для перемещения к ветке с именем branch_name:
+
+git checkout branch_name
 
 
